@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/anymind-demo/static/css/main.75360587.chunk.css",
+    "main.js": "/anymind-demo/static/js/main.9cf07061.chunk.js",
+    "main.js.map": "/anymind-demo/static/js/main.9cf07061.chunk.js.map",
+    "runtime-main.js": "/anymind-demo/static/js/runtime-main.5fb47d0a.js",
+    "runtime-main.js.map": "/anymind-demo/static/js/runtime-main.5fb47d0a.js.map",
+    "static/js/2.efd3377b.chunk.js": "/anymind-demo/static/js/2.efd3377b.chunk.js",
+    "static/js/2.efd3377b.chunk.js.map": "/anymind-demo/static/js/2.efd3377b.chunk.js.map",
+    "static/js/3.c4fef494.chunk.js": "/anymind-demo/static/js/3.c4fef494.chunk.js",
+    "static/js/3.c4fef494.chunk.js.map": "/anymind-demo/static/js/3.c4fef494.chunk.js.map",
+    "index.html": "/anymind-demo/index.html",
+    "static/css/main.75360587.chunk.css.map": "/anymind-demo/static/css/main.75360587.chunk.css.map",
+    "static/js/2.efd3377b.chunk.js.LICENSE.txt": "/anymind-demo/static/js/2.efd3377b.chunk.js.LICENSE.txt",
+    "static/media/empty-conversation.8fb4e916.jpg": "/anymind-demo/static/media/empty-conversation.8fb4e916.jpg",
+    "static/media/style.css": "/anymind-demo/static/media/icomoon.b2f51036.woff",
+    "static/media/user-01.b0d542e2.svg": "/anymind-demo/static/media/user-01.b0d542e2.svg",
+    "static/media/user-02.c6075d3f.svg": "/anymind-demo/static/media/user-02.c6075d3f.svg",
+    "static/media/user-03.fae8153f.svg": "/anymind-demo/static/media/user-03.fae8153f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fb47d0a.js",
+    "static/js/2.efd3377b.chunk.js",
+    "static/css/main.75360587.chunk.css",
+    "static/js/main.9cf07061.chunk.js"
+  ]
+}
